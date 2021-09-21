@@ -1,7 +1,6 @@
 ### Hi there, I'm Wataring 😺
 
-🔭 I'm currently creating a WordPress theme.
-🌱 I’m currently learning frontend.
+🌱 I'm currently learning the front end while creating a WordPress theme.
 
 [![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum9625&hide=starts,contribs&count_private=true&show_icons=true&theme=merko)
 ](https://github.com/chum9625)
