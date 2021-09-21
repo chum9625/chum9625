@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum9625)](https://github.com/chum9625)
+[![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum9625&hide=stars,commits,prs,issues,contribs)](https://github.com/chum9625)
 
 
 
