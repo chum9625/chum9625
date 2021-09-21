@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Wataring 😺
 
 
-[![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum9625&hide=contribs&count_private=true&show_icons=true&theme=merko)
+[![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum9625&hide=starts,contribs&count_private=true&show_icons=true&theme=merko)
 ](https://github.com/chum9625)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625)](https://github.com/chum9625)
 
 
 
