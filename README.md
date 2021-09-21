@@ -12,13 +12,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/chum9625)
 
 
-<a href="https://github.com/chum9625/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chum9625&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chum9625&hide=stars,contribs&count_private=true&show_icons=true&theme=merko" />
 </a>
-<a href="https://github.com/chum9625">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chum9625&repo=convoychat" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625&langs_count=8&layout=compact&theme=tokyonight" />
 </a>
-
 
 
 <!--
