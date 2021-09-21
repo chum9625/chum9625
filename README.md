@@ -2,7 +2,7 @@
 
 🌱 I'm currently learning the front end while creating a WordPress theme.
 
-[![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum9625&hide=starts,contribs&count_private=true&show_icons=true&theme=merko)
+[![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum9625&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)
 ](https://github.com/chum9625)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/chum9625)
