@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?chum9625=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum9625)](https://github.com/chum9625)
 
 
 
