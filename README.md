@@ -1,9 +1,13 @@
-### Hi there, I'm Wataring 😺
+## 😺 Hi there, I'm Watarin. 
 
 🌱 I'm currently learning the front end while creating a WordPress theme.
 
+
+## ⚡ Status
+
 [![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum9625&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)
 ](https://github.com/chum9625)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/chum9625)
 
@@ -19,5 +23,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
