@@ -5,13 +5,6 @@
 
 ## ⚡ Status
 
-[![chum9625's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum9625&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)
-](https://github.com/chum9625)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/chum9625)
-
-
 <a href="https://github.com/chum9625">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=chum9625&hide=stars,contribs&count_private=true&show_icons=true&theme=merko" />
 </a>
