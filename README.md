@@ -12,6 +12,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/chum9625)
 
 
+<a href="https://github.com/chum9625/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chum9625&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/chum9625">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chum9625&repo=convoychat" />
+</a>
+
+
 
 <!--
 **chum9625/chum9625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
