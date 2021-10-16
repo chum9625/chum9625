@@ -1,6 +1,6 @@
 ## Hi there, I'm Watarin.😺 
 
-I'm currently learning the front end while creating a WordPress theme.🌱
+🌱A web developer based in Japan. This is my place for web development and design.
 
 
 ### ✨Status
