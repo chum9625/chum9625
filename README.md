@@ -1,6 +1,6 @@
 ## Hi there, I'm Watarin.😺 
 
-🌱A web developer based in Japan. This is my place for web development and design.
+🌱 I am a web developer based in Japan. There is my place for web development and design.
 
 
 ### ✨Status
