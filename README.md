@@ -1,6 +1,6 @@
 ## Hi there, I'm Watarin.😺 
 
-🌱 While learning the front end, I am developing a WordPress theme. I want to be able to release an android app next year.
+🌱 While learning the front end, I am developing WordPress themes. I want to be able to release an android app next year.
 
 ### ✨Status
 
