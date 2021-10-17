@@ -1,7 +1,6 @@
 ## Hi there, I'm Watarin.😺 
 
-🌱 I am a web developer based in Japan. My account is for web development and design.
-
+🌱 While learning the front end, I am developing a WordPress theme. I want to be able to release an android app next year.
 
 ### ✨Status
 
