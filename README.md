@@ -1,4 +1,4 @@
-## Hi there, I'm Nobu🐾
+## Hi there, I'm NobuNona🐾
 
 🌱 I am a Japanese web developer. I like building open source projects. While learning the front end, I am developing a WordPress theme. I want to be able to release an android app next year.
 
