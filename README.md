@@ -1,6 +1,6 @@
 ## Hi there, I'm NobuNona🐾
 
-🌱 I am a Japanese web developer. I like building open source projects. While learning the front end, I am developing a WordPress theme. I want to be able to release an android app next year.
+🌱I am interested in and studying websites using modern technology. These include Vue.js, React, GitHub Actions, Headless cms and more.
 
 ### ✨Status
 
