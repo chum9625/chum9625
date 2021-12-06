@@ -1,7 +1,7 @@
 ## Hi there, I'm NobuNona🐾
 
-🌱I am interested in and studying websites using modern technology. These include Vue.js, React, GitHub Actions, Headless cms and more.
-
+🌱I am interested in and studying websites using modern technology. 
+Learning: Vue.js, React, GitHub Actions, Headless cms and much more!
 ### ✨Status
 
 <a href="https://github.com/chum9625">
