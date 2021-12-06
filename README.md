@@ -1,10 +1,10 @@
 ## Hi there, I'm NobuNona🐾
 
-🌱 I am a Japanese website creator. My service provides WordPress customization and support for a limited number of people. Beside that, I'm learning the front end. It's a lot of fun to know that new technologies can efficiently build websites. 
+🌍 I am a Japanese website creator. My service provides WordPress customization and support for a limited number of people. Beside that, I'm learning the front end. It's a lot of fun to know that new technologies can efficiently build websites. 
 
-📕 Learning experience: HTML, CSS, Sass, JavaScript, Docker, PHP, Ruby, Python, Java, Unity, MySQL, GAS, React, Vue.js, Node.js, Android Apps, Git, GitHub Actions, Headless cms and much more!
+📕 Basic learning experience: HTML, CSS, Sass, JavaScript, Docker, PHP, Ruby, Python, Java, Unity, MySQL, GAS, React, Vue.js, Node.js, Android Apps, Git, GitHub Actions, Headless cms and much more!
 
-🤔 I would like to apply these technologies, but it is quite difficult...
+🌱 I want to apply these technologies, so I am learning every day. I think inspiration and ideas are important as well as learning.
 
 ### ✨Status
 
