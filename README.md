@@ -1,8 +1,11 @@
 ## Hi there, I'm NobuNona🐾
 
-🌱 I am interested in and studying websites using modern technology. 
+🌱 I am a Japanese website creator. My service provides WordPress customization and support for a limited number of people. Beside that, I'm learning the front end. It's a lot of fun to know that new technologies can efficiently build websites. 
 
-📕 Learning: React, GitHub Actions, Headless cms and much more!
+📕 Learning experience: HTML, CSS, Sass, JavaScript, Docker, PHP, Ruby, Python, Java, Unity, MySQL, GAS, React, Vue.js, Node.js, Android Apps, Git, GitHub Actions, Headless cms and much more!
+
+🤔 I would like to apply these technologies, but it is quite difficult...
+
 ### ✨Status
 
 <a href="https://github.com/chum9625">
