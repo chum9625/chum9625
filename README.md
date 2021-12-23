@@ -1,4 +1,4 @@
-## Hi there, I'm NobuNona🐾
+## Hi there, I'm Syusey🐾
 
 🌍 I am a Japanese website creator. My service provides WordPress customization and support for a limited number of people. Beside that, I'm learning the front end. It's a lot of fun to know that new technologies can efficiently build websites. 
 
