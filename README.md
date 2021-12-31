@@ -10,7 +10,7 @@
 
 💻 Visual Studio Code  
 🖊 Illustrator, Photoshop, Inkscape, CLIP STUDIO, Canva  
-💡 I'm learning illustrator and Photoshop online.  
+💡 I'm learning Illustrator and Photoshop online.  
 
 ### ✨Status
 
