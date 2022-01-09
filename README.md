@@ -9,8 +9,8 @@
 ### Design tools in use
 
 💻 Visual Studio Code  
-🖊 Illustrator, Photoshop, Inkscape, CLIP STUDIO, Canva  
-💡 I'm learning Illustrator and Photoshop online.  
+🖊 Illustrator, Photoshop, InDesign, Inkscape, CLIP STUDIO, Canva  
+🏫 Completed at online school ... Illustrator, Photoshop, InDesign  
 
 ### ✨Status
 
