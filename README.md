@@ -10,7 +10,8 @@
 
 💻 Visual Studio Code  
 🖊 Illustrator, Photoshop, InDesign, Inkscape, CLIP STUDIO, Canva  
-🏫 Completed at online school ... Illustrator, Photoshop, InDesign  
+🏫 Completed at online school ... Illustrator, Photoshop, InDesign
+🏫 Currently learning ... Premiere, After Effects ... It's very fun!😻
 
 ### ✨Status
 
