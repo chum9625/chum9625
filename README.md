@@ -11,7 +11,7 @@
 💻 Visual Studio Code  
 🖊 Illustrator, Photoshop, InDesign, Inkscape, CLIP STUDIO, Canva  
 🏫 Completed with DH : Illustrator, Photoshop, InDesign, Premiere, After Effects ... These are so much fun!😻  
-🏫 Now learning : C&R E-learning UI / UX
+🏫 Now learning : C&R E-learning UI / UX, and I'm working on a design challenge.
 
 ### ✨Status
 
