@@ -2,7 +2,7 @@
 
 🌍 I am a Japanese website creator. My service provides WordPress customization and support for a limited number of people. Beside that, I'm learning the front end and design. It's a lot of fun to know that new technologies can efficiently build websites. 
 
-📕 Basic learning experience: HTML, CSS, Sass, JavaScript, Docker, PHP, Ruby, Python, Java, Unity, MySQL, GAS, React, Vue.js, Node.js, Android Apps, Git, GitHub Actions, Headless cms and much more!
+📕 Basic learning experience: HTML, CSS, Sass, JavaScript, Docker, PHP, Ruby, Python, Java, Unity, MySQL, GAS, React, Vue.js, Node.js, Android Apps, Git, GitHub Actions, Headless cms, UI / UX.
 
 🌱 I want to apply these technologies, so I am learning every day. I think inspiration and ideas are important as well as learning.
 
@@ -11,7 +11,6 @@
 💻 Visual Studio Code  
 🖊 Illustrator, Photoshop, InDesign, Inkscape, CLIP STUDIO, Canva  
 🏫 Completed with DH : Illustrator, Photoshop, InDesign, Premiere, After Effects ... These are so much fun!😻  
-🏫 Now learning : C&R E-learning UI / UX, and I'm working on a design challenge...Creating A4 flyer...
 
 ### ✨Status
 
