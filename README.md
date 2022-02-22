@@ -2,7 +2,7 @@
 
 🌱 I am learning web application development and design.  
 🤔 I think inspiration and ideas are important as well as learning.  
-🌍 achievement : WordPress sites, business cards, shop cards, flyers.  
+🌍 Achievement : WordPress sites, business cards, shop cards, flyers.  
 📕 Basic learning experience: HTML, CSS, Sass, JavaScript, Docker, PHP, Ruby, Python, Java, Unity, MySQL, GAS, React, Vue.js, Node.js, Android Apps, Git, GitHub Actions, Headless cms, UI / UX, Laravel.
 
 ### Design tools in use
