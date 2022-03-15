@@ -1,4 +1,4 @@
-## Hi there, I'm Syusey🐾
+## Hi there, I'm Mucha🐾
 
 🌱 I am learning web application development and design.  
 🤔 I think inspiration and ideas are important as well as learning.  
