@@ -1,7 +1,7 @@
 ## Hi there, I'm Mucha🐾
 
 🌍 The orbit is being corrected now.  
-😄 I like efficient development, so I'm learning for that.
+😄 I am learning many things to master efficient development.
 
 ### Design tools in use
 
