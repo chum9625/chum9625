@@ -1,7 +1,7 @@
 ## Hi there, I'm Mucha🐾
 
-😄 I am learning many things to master efficient development.  
-🌍 What to develop .. .. Orbit correction is in progress.  
+📖 I am learning many things to master efficient development.  
+🚀 What to develop .. .. Orbit correction is in progress.  
 
 ### Design tools in use
 
