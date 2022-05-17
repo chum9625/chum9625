@@ -1,6 +1,6 @@
 ## Hi there, I'm Mucha🐾
 
-🚀 What to develop .. .. Orbit correction is in progress.  
+🚀 One good deed a day . || One push a day.
 
 ### Design tools in use
 
