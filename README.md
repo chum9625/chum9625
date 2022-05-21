@@ -5,7 +5,7 @@
 ### Design tools in use
 
 💻 Visual Studio Code  
-🖊 Illustrator, Photoshop, InDesign, Inkscape, CLIP STUDIO, Canva  
+🖊 Illustrator, Photoshop, XD, InDesign, Inkscape, CLIP STUDIO, Canva  
 🌱  Usage experience : Premiere, After Effects  
 
 ### ✨Status
