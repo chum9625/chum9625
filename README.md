@@ -1,12 +1,18 @@
-## Hi there, I'm Syusey🐾
+## 🐾 Hi there, I'm Syusey
 
-🌹 One good deed a day . || One push a day.
+🌹 One good deed a day . || One push a day.  
 
-### Design tools in use
+🌍 I'm learning web development.
 
-💻 Visual Studio Code  
-🖊 Illustrator, Photoshop, XD, InDesign, Inkscape, CLIP STUDIO, Canva  
-🌱  Usage experience : Premiere, After Effects  
+### ⚙ Frequently used tools
+
+- Visual Studio Code  
+- XD > Illustrator > Photoshop > InDesign > Inkscape > CLIP STUDIO > Canva  
+  Usage experience : Premiere, After Effects  
+
+### 🌱 Scope of learning
+
+HTML, CSS, Sass, JavaScript, Docker, PHP, Vue.js, Node.js, Git, GitHub Actions, Headless cms, UI/UX, Laravel.
 
 ### ✨Status
 
