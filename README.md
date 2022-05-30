@@ -1,14 +1,12 @@
 ## 🐾 Hi there, I'm Syusey
 
-🌹 One good deed a day . || One push a day.  
-
-🌍 I'm learning web development.
+- One good deed a day.🌹 || One push a day.🌍
+- I'm learning web development.
 
 ### ⚙ Frequently used tools
 
 - Visual Studio Code  
-- XD > Illustrator > Photoshop > InDesign > Inkscape > CLIP STUDIO > Canva  
-  Usage experience : Premiere, After Effects  
+- XD > Illustrator > Photoshop > InDesign > Inkscape > CLIP STUDIO > Canva
 
 ### 🌱 Scope of learning
 
