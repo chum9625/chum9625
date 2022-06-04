@@ -10,7 +10,7 @@
 
 ### 🌱 Scope of learning
 
-HTML, CSS, Sass, JavaScript, Docker, PHP, Vue.js, Node.js, Git, GitHub Actions, Headless cms, UI/UX, Laravel.
+HTML, CSS, CSS framework, Sass, JavaScript, Docker, Vue.js, Node.js, Git, GitHub Actions, Headless cms, UI/UX, PHP, Laravel.
 
 ### ✨Status
 
@@ -23,9 +23,7 @@ HTML, CSS, Sass, JavaScript, Docker, PHP, Vue.js, Node.js, Git, GitHub Actions, 
 
 
 <!--
-**chum9625/chum9625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**chum9625/chum9625** ✨ _Saving cute emoji_ ✨
 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
