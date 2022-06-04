@@ -1,7 +1,8 @@
 ## 🐾 Hi there, I'm Syusey
 
 - One good deed a day.🌹 || One push a day.🌍
-- I'm learning web development.
+- 😄　I'm learning web development.
+- 🤔 I'm always thinking about improving work efficiency.
 
 ### ⚙ Frequently used tools
 
@@ -28,8 +29,6 @@ HTML, CSS, Sass, JavaScript, Docker, PHP, Vue.js, Node.js, Git, GitHub Actions, 
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 -->
