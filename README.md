@@ -1,8 +1,7 @@
 ## 🐾 Hi there, I'm Syusey
 
-- 🌹　One good deed a day. || One push a day.🌍
-- 😄　I'm learning web development.
-- 🤔　I'm always thinking about improving work efficiency.
+- 🌹　What I keep in mind: One good deed a day. || One push a day.🌍
+- 🤔　Why Learn Development: I'm always thinking about improving work efficiency.
 
 ### ⚙ Frequently used tools
 
@@ -31,4 +30,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 😄
 -->
