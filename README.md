@@ -1,8 +1,8 @@
 ## 🐾 Hi there, I'm Syusey
 
-- One good deed a day.🌹 || One push a day.🌍
-- 😄　I'm learning web development.
-- 🤔 I'm always thinking about improving work efficiency.
+- 🌹　　One good deed a day. || One push a day.🌍
+- 😄　　I'm learning web development.
+- 🤔　　I'm always thinking about improving work efficiency.
 
 ### ⚙ Frequently used tools
 
