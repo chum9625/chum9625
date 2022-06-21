@@ -1,4 +1,4 @@
-## 🐾 Hi there, I'm Syusey
+## Hi there 🐾
 
 - 🌹　What I keep in mind: One good deed a day. || One push a day.🌍
 - 🤔　Why Learn Development: I'm always thinking about improving work efficiency.
