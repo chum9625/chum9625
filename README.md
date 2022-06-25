@@ -8,11 +8,11 @@
 - Visual Studio Code  
 - XD > Illustrator > Photoshop > InDesign > Inkscape > CLIP STUDIO > Canva
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chum9625/my-stack)
-
 ### 🌱 Scope of learning
 
 HTML, CSS, CSS framework, Sass, JavaScript, Docker, Vue.js, Node.js, Git, GitHub Actions, Headless cms, UI/UX, PHP, Laravel.
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chum9625/my-stack)
 
 ### ✨Status
 
