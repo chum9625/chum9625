@@ -18,7 +18,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=chum9625&hide=stars,contribs&count_private=true&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/chum9625">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625&langs_count=8&layout=compact&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625&langs_count=8&layout=compact&theme=react" />  
 </a>
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chum9625/my-stack)
