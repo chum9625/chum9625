@@ -12,8 +12,6 @@
 
 - HTML, CSS, CSS framework, Sass, JavaScript, Docker, Vue.js, Node.js, Git, GitHub Actions, Headless cms, UI/UX, PHP, Python, Laravel.
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chum9625/my-stack)
-
 ### 🌱 Status
 
 <a href="https://github.com/chum9625">
@@ -23,6 +21,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625&langs_count=8&layout=compact&theme=react" />
 </a>
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chum9625/my-stack)
 
 <!--
 **chum9625/chum9625** ✨ _Saving cute emoji_ ✨
