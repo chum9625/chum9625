@@ -3,7 +3,7 @@
 - 🌹　What I keep in mind: One good deed a day. || One push a day.🌍
 - 🤔　Why Learn Development: I'm always thinking about improving work efficiency.
 
-### ⚙ Frequently used tools
+### ⚙ Tools
 
 - Visual Studio Code  
 - XD > Illustrator > Photoshop > InDesign > Inkscape > CLIP STUDIO > Canva
