@@ -25,11 +25,18 @@
 </a>
 
 
+### 💬 Develop memo
+
+node version 管理で使用しているもの
+
+- mac: nodenv
+- windows*: nvm
+
 <!--
 **chum9625/chum9625** ✨ _Saving cute emoji_ ✨
 
 - 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄
 -->
