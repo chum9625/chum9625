@@ -21,8 +21,8 @@
 
 node version 管理で使用しているもの
 
-- mac: nodenv
-- win: nvm
+- mac： nodenv
+- win： nvm
 
 ## 🌱 Status
 
