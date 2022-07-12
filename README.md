@@ -15,6 +15,15 @@
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chum9625/my-stack)
 
+---
+
+### 💬 Develop memo
+
+node version 管理で使用しているもの
+
+- mac: nodenv
+- win: nvm
+
 ## 🌱 Status
 
 <a href="https://github.com/chum9625">
@@ -24,15 +33,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chum9625&langs_count=8&layout=compact&theme=react" />
 </a>  
 
-
----
-
-### 💬 Develop memo
-
-node version 管理で使用しているもの
-
-- mac: nodenv
-- windows*: nvm
 
 <!--
 **chum9625/chum9625** ✨ _Saving cute emoji_ ✨
