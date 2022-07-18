@@ -15,14 +15,14 @@
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chum9625/my-stack)
 
----
-
 ### 💬 Develop memo
 
 node version 管理で使用しているもの
 
 - mac： nodenv
 - win： nvm
+
+---
 
 ## 🌱 Status
 
