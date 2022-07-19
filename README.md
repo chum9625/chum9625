@@ -19,7 +19,7 @@
 
 node version 管理で使用しているもの
 
-- mac： nodenv
+- mac： nodebrew → nvm → nodenv → volta
 - win： nvm
 
 ---
