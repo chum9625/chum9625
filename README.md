@@ -1,6 +1,6 @@
 # Hi there 🐾
 
-- 😄　I like efficiency and automation.
+😄　I like efficiency and automation.
 
 ## ⚙ Tools
 
