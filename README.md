@@ -1,7 +1,6 @@
 # Hi there 🐾
 
-- 🌹　What I keep in mind: One good deed a day. || One push a day.🌍
-- 🤔　Why Learn Development: I'm always thinking about improving work efficiency.
+- 😄　I like efficiency and automation.
 
 ## ⚙ Tools
 
@@ -40,5 +39,4 @@ node version 管理で使用しているもの
 - 👯 I’m looking to collaborate on ...
 
 - 📫 How to reach me: ...
-- 😄
 -->
