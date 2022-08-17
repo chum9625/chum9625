@@ -1,6 +1,6 @@
 # Hi there 🐾
 
-😄　I like efficiency and automation.
+😄　I'm a web developer, and I'm a planner.I like efficiency and automation.
 
 ## ⚙ Tools
 
