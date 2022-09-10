@@ -1,7 +1,7 @@
 # Hi there 🐾
 
-😄　I work at a company on weekdays. Other than that, I enjoy personal development.  
-📫  masverse is a coined word.(that combines master and universe.)
+😄  I work at a company on weekdays. Other than that, I enjoy personal development.  
+📫  masverse is a coined word that combines master and universe.
 
 ## ⚙ Tools
 
