@@ -1,7 +1,6 @@
 # Hi there 🐾
 
 😄  I work at a company on weekdays. Other than that, I enjoy personal development.  
-📫  masverse is a coined word that combines master and universe.
 
 ## ⚙ Tools
 
@@ -37,6 +36,6 @@ node version 管理で使用しているもの
 <!--
 **chum9625/chum9625** ✨ _Saving cute emoji_ ✨
 
-- 👯 I’m looking to collaborate on ...
+👯 📫  
 
 -->
