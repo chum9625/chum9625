@@ -1,6 +1,6 @@
 # Hi there 🐾
 
-😄  I work at a company on weekdays. Other than that, I enjoy personal development.  
+📒 I work at a company on weekdays. Other than that, I enjoy personal development.  
 
 ## ⚙ Tools
 
