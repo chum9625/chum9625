@@ -4,13 +4,13 @@
 
 ## ⚙ Tools
 
-- Visual Studio Code  
+- Visual Studio Code > サクラエディタ   
 - XD > Illustrator > Photoshop > InDesign > Inkscape > CLIP STUDIO > Canva
 
 ## ✨ Interested
 
 - Web technology, remote control, and related technology.
-- HTML, CSS, CSS framework, Sass, JavaScript, Docker, Vue.js, Node.js, Git, GitHub Actions, Headless cms, UI/UX, PHP, Python, Laravel.
+- JavaScript, React, Vue.js, Node.js, Git, GitHub Actions, HTML, CSS, CSS framework, Sass, Docker, Headless cms, UI/UX, PHP, Python, Laravel.
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chum9625/my-stack)
 
