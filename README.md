@@ -16,7 +16,7 @@
 
 ### 💬 Develop memo
 
-node version 管理で使用しているもの
+node version 管理遍歴
 
 - mac： nodebrew → nvm → nodenv → volta
 - win： nvm → volta
