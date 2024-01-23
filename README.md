@@ -5,7 +5,7 @@
 ## ⚙ Tools
 
 - Visual Studio Code > サクラエディタ   
-- XD > Illustrator > Photoshop > InDesign > Inkscape > CLIP STUDIO > Canva
+- Illustrator > Photoshop > XD > Inkscape > CLIP STUDIO > Canva
 
 ## ✨ Interested
 
