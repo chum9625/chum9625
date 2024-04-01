@@ -4,8 +4,8 @@
 
 ## ⚙ Tools
 
-- Visual Studio Code > サクラエディタ   
-- Illustrator > Photoshop > XD > Inkscape > CLIP STUDIO > Canva
+- Visual Studio Code   
+- Illustrator / Photoshop / XD
 
 ## ✨ Interested
 
