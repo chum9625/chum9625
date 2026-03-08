@@ -4,7 +4,8 @@
 
 ## ⚙ Tools
 
-- Visual Studio Code   
+- Cursor / Visual Studio Code
+- iTerm2
 - Illustrator / Photoshop /
 
 ## ✨ Interested
